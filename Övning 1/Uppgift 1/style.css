@@ -1,0 +1,65 @@
+body{
+    background-color: #fcdee0;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 11% auto;
+    grid-template-rows: 30% auto 30%;
+
+    
+}
+.mdn{
+    max-width: 97%;
+    max-height: 100%;
+    border: 2px solid black;
+
+}
+.vänster{
+    border: 2px solid black;
+    margin-top: 8px;
+}
+.artikel{
+    border: 2px solid black;
+    margin-top: 4px;
+    padding: 2px;
+
+
+}
+.article{
+    padding-top: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+h1{
+    text-align: center;
+    padding: 6px;
+    margin: 0px;
+    font-size: 25px;
+    
+}
+a{
+    font-size: 20px;
+}
+#rk{
+    border: 2px;
+    
+    
+}
+h2{
+    text-align: center;
+    border: 2px solid black;
+    margin: 0px;
+    margin-top: 8px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding-top: 15px;
+    
+}
+#ru{
+    font-size: 50px;
+    border: 2px solid black;    
+    margin:0px;
+    padding-top: 30px; 
+    margin-left: 4px;
+    margin-right: 4px;
+}   
